@@ -15,7 +15,9 @@ Modern Jetpack Compose UI
 Technologies Used
 
 Kotlin
+
 Jetpack Compose
+
 Firebase Firestore
 Material 3
 Android Studio
