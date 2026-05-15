@@ -4,23 +4,17 @@ Rakta-Vahini is an Android-based blood donor management application developed us
 
 Features
 
-Blood donor registration
-Blood group filtering
-Donor availability tracking
-90-day eligibility logic
-Firebase Firestore integration
-Emergency donor contact via dialer intent
+Blood donor registration,
+Blood group filtering,
+Donor availability trackin,g
+90-day eligibility logic,
+Firebase Firestore integration,
+Emergency donor contact via dialer intent,
 Modern Jetpack Compose UI
 
 Technologies Used
 
-Kotlin
-
-Jetpack Compose
-
-Firebase Firestore
-Material 3
-Android Studio
+Kotlin,Jetpack Compose,Firebase Firestore,Android Studio,ANDROID SDKS LIB
 
 Problem Solved
 
